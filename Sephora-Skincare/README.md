@@ -11,3 +11,5 @@ Average rating comparison across product categories
 
 Tools: Power BI Desktop, Power Query
 Data source: Sephora Products & Skincare Reviews — Kaggle
+
+![Dashboard](Sephora Products Dashboard SC.png)
